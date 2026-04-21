@@ -24,3 +24,5 @@ Security was implemented across multiple layers:
    * Application Level: SQL Server Authentication and CORS management in the Node.js backend.
 
 ##Visual Documentation
+###Screenshot of succesfully Virtualmachine and Local pc communicating with the database
+![Database](database kuva.png)
