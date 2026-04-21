@@ -9,7 +9,7 @@ This project documents the implementation of a secure Hybrid Cloud Infrastructur
  * Cloud Operations: An Azure Virtual Machine running Windows Server 2022, hosting a SQL Server Express database.
  * API & Presentation: A Node.js REST API that fetches data from the database and serves it to a dynamic web portfolio.
 
-##Key Features and Implementations
+## Key Features and Implementations
 1. Secure Hybrid Connectivity
 Unlike standard cloud-only projects, this implementation utilizes a dedicated VPN tunnel. All database and API traffic travels through a private internal IP range (10.0.0.4), ensuring that sensitive operational data is never exposed to the public internet.
 
@@ -23,7 +23,7 @@ Security was implemented across multiple layers:
    * OS Level: Windows Defender Firewall rules specifically for SQL (1433) and API (3000) ports.
    * Application Level: SQL Server Authentication and CORS management in the Node.js backend.
 
-Visual Documentation
+## Visual Documentation
 Screenshot of succesfully Virtualmachine and Local pc communicating with the database
 ![Database](./Databasekuva.png)
 
