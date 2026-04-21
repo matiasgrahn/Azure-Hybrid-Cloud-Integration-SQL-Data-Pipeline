@@ -25,4 +25,4 @@ Security was implemented across multiple layers:
 
 ##Visual Documentation
 ###Screenshot of succesfully Virtualmachine and Local pc communicating with the database
-![Database](./database kuva.png)
+![Database](./Databasekuva.png)
