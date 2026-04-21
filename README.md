@@ -27,5 +27,8 @@ Security was implemented across multiple layers:
 Screenshot of succesfully Virtualmachine and Local pc communicating with the database
 ![Database](./Databasekuva.png)
 
-##Screenshot of Virtual machine side of a working "live status" window on portfolio page, fetching data from SQL database and trasporting it via backend
-![Live-status](./Live-statuskuva.png)
+Screenshot of Virtual machine side of a working "live status" window on portfolio page, fetching data from SQL database and trasporting it via backend
+![Live-status](./live-statuskuva.png)
+
+Screenshot of a local machine opening this virtually hosted website with working features.
+[IP](./IP-kuva.png)
