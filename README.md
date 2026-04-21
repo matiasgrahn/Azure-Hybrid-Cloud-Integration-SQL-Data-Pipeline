@@ -23,7 +23,7 @@ Security was implemented across multiple layers:
    * OS Level: Windows Defender Firewall rules specifically for SQL (1433) and API (3000) ports.
    * Application Level: SQL Server Authentication and CORS management in the Node.js backend.
 
-##Visual Documentation
+  ##Visual Documentation
 ##Screenshot of succesfully Virtualmachine and Local pc communicating with the database
 ![Database](./Databasekuva.png)
 
