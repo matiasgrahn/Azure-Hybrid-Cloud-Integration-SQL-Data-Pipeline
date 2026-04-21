@@ -31,4 +31,4 @@ Screenshot of Virtual machine side of a working "live status" window on portfoli
 ![Live-status](./live-statuskuva.png)
 
 Screenshot of a local machine opening this virtually hosted website with working features.
-[IP](./IP-kuva.png)
+[IP](./IPkuva.png)
